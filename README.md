@@ -13,3 +13,4 @@ An easy way to use download and use a template from a repo is [degit](https://ww
 
 For further directions, see the [Sass lesson](https://github.com/utdata/icj-class#sass).
 # new-style.scss
+# new-style.scss
